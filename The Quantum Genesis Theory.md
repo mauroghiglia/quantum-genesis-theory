@@ -10,16 +10,16 @@ Modern science has achieved extraordinary precision in describing and predicting
 
 The purpose of this work is not to challenge or replace established scientific theories, but to explore whether a complementary conceptual framework can be formulated to address questions that remain only partially understood.
 
-The initial intuition behind this framework emerged while watching a well-known Italian scientist on television. He explained that if we push a bicycle and then let it go, we can predict that it will continue moving for a few seconds, and we can even calculate when it will eventually fall. However, beyond the mathematical description, a more fundamental question remains open: why does it continue to move at all? What is it that sustains this motion once the initial push is no longer applied? Is there an intrinsic “force” within the system, or are we simply describing the behavior without fully understanding its underlying mechanism? This reflection represents one of the starting points of the present work.
+The initial intuition behind this framework emerged while watching a well-known Italian scientist on television. He explained that if we push a bicycle and then let it go, we can predict that it will continue moving for a few seconds, and we can even calculate when it will eventually fall. However, beyond the mathematical description, a more fundamental question remains open: why does it continue to move at all? What is it that sustains this motion once the initial push is no longer applied? Is there an intrinsic “force” within the system, or are we simply describing the behavior without fully understanding its underlying mechanism? This observation constitutes one of the starting points of the present framework.
 
-These questions do not end with such a seemingly simple event. Why does the bicycle continue its motion instead of immediately falling, once it is no longer supported? And conversely, why does it eventually fall, instead of remaining upright where it was left? As can be easily observed, there are many phenomena—even in everyday life—for which we know the governing laws, such as gravity or gyroscopic effects, yet we do not fully understand their intrinsic nature. We are able to describe how these phenomena behave and predict their outcomes with precision, but the deeper mechanisms that give rise to them remain, at least in part, conceptually unresolved.
+These questions do not end with such a seemingly simple event. Why does the bicycle continue its motion instead of immediately falling, once it is no longer supported? And conversely, why does it eventually fall, instead of remaining upright where it was left? We can see it in our every day life, there are many phenomena for which we know the governing laws, such as gravity or gyroscopic effects, yet we do not fully understand their intrinsic nature. We are able to describe how these phenomena behave and predict their outcomes with precision, but the deeper mechanisms that give rise to them remain, at least in part, conceptually unresolved.
 
 In particular, this reflection focuses on phenomena such as:
 
 - gravity
 - mass
 - inertia
-- centrifugal effects
+- centrifugal phenomena
 
 These are well described mathematically, yet their deeper nature and underlying mechanisms are still subject to interpretation.
 
@@ -29,71 +29,91 @@ The central intuition guiding this work is that what we perceive as stable physi
 
 This approach does not claim completeness or finality. Rather, it aims to propose a coherent line of thought that may open alternative ways of interpreting physical phenomena, while remaining compatible with empirical observations.
 
+
+
 ## Core Assumptions
 
-This framework is based on a limited set of foundational assumptions, intended to define the minimum structure required to describe the proposed model.
+This framework is based on a limited set of foundational assumptions, each following logically from the previous, and intended to define the minimum structure required to describe the proposed model.
 
 ------
 
-### 1. Non-stability of quanta
+### 1. Nature of quanta
 
-Quanta are not considered as permanently existing entities within observable reality.
+Modern physics describes matter as composed of quanta, but this raises a fundamental question: what is the nature of a quantum itself?
 
-Instead, they are assumed to exist in a dynamic condition in which their presence in the observable domain is **intermittent**.
+If a quantum is considered an object or unit of reality, it is natural to ask whether it is composed of parts, and if so, what those parts are. If it can be divided, it is not fundamental; if it cannot, it represents a limit beyond which the concept of “object” loses its conventional meaning.
+
+This tension echoes philosophical considerations dating back to **Zeno of Elea**, who highlighted the paradoxes of infinite division. Any description of matter must implicitly assume a point at which further division is no longer meaningful.
+
+Within the present framework, quanta are therefore not interpreted as small, persistent objects, but as **events or manifestations** that do not require internal composition in the traditional sense.
+
+------
+
+### 2. Non-stability of quanta
+
+If quanta are understood as manifestations rather than persistent objects, their existence within observable reality is not continuous.
+
+They are assumed to exist in a dynamic condition in which their presence is **intermittent**.
 
 What we perceive as continuity of matter is therefore not the persistence of the same entity, but the result of a rapid and continuous process of appearance and disappearance.
 
 ------
 
-### 2. Existence of a non-observable domain
-
-It is assumed that there exists a domain that is not directly accessible to observation or measurement.
-
-This domain is not to be interpreted as “empty space,” but as a state in which quanta exist when they are not manifested in observable reality.
-
-This domain represents a necessary counterpart to the observable one, allowing for the transition of quanta between states.
-
-------
-
 ### 3. Transitional nature of reality
 
-Observable reality is interpreted as an **intermediate condition**, not as a final or stable state.
+Given the non-continuous presence of quanta, observable reality is interpreted as an **intermediate condition**, not as a final or stable state.
 
 In this view:
 
-- quanta emerge from the non-observable domain
-- remain observable for a limited interval
-- then return to the non-observable domain
+- quanta emerge into the observable domain
+- remain observable for a finite interval
+- then return to a non-observable condition
 
 This continuous process defines what is perceived as existence.
 
 ------
 
-### 4. Generation of space and time
+### 4. Existence of a non-observable domain
 
-Space and time are not assumed to exist independently as fixed frameworks.
+The intermittent manifestation of quanta implies the existence of a domain in which they exist when not observable.
 
-Instead, they are considered as **emergent properties** resulting from the distribution and transitions of quanta. Space and time, in this view, have no independent existence: they are defined by the presence and transitions of quanta. The apparent separation between entities exists only while quanta are manifested. In the absence of quanta, there is no space to separate and no time to order events.
+This domain is not directly accessible to observation, rather than inherently non-physical.
+
+It is not to be interpreted as empty space, but as a necessary condition that allows transitions between observable and non-observable states.
+
+------
+
+### 5. Generation of space and time
+
+If quanta are not continuously present, space and time cannot be considered independent frameworks.
+
+Instead, they are **emergent properties** resulting from the distribution and transitions of quanta.
+
+Space is defined by the relative manifestation of quanta, and exists only while such manifestations occur. Time reflects the ordering of these transitions.
+
+In the absence of quanta, there is no space to separate and no time to order events.
 
 The apparent continuity of space and the flow of time are therefore consequences of underlying discrete processes.
 
 ------
 
-### 5. Apparent stability as statistical effect
+### 6. Apparent stability as statistical effect
 
-The stability of matter (e.g., solid objects, persistent forms) is interpreted as a **statistical effect**.
+The stability of matter is interpreted as a **statistical effect**.
 
-At any given moment, the probability of quanta re-emerging in approximately the same configuration is high enough to produce the perception of stable structures.
+At any given moment, the probability of quanta re-emerging in approximately the same configuration is sufficiently high to produce the perception of stable structures.
 
 This does not imply true permanence, but rather a dynamic equilibrium.
 
-To illustrate this concept, consider a blacksmith striking a piece of red-hot iron on an anvil—an image that evokes maximum solidity. At the atomic level, however, both the hammer and the iron are composed of structures that are overwhelmingly empty: an atom is more than 99.999999999999% empty space, with mass concentrated in a tiny nucleus and electrons occupying diffuse regions. What appears as solid contact is therefore not the interaction of compact matter, but the result of underlying structures that are, for the most part, empty.
+To illustrate this concept, consider a blacksmith striking a piece of red-hot iron on an anvil—an image that evokes maximum solidity. At the atomic level, however, both the hammer and the iron are composed of structures that are overwhelmingly empty: an atom is more than 99.99% empty space, with mass concentrated in a tiny nucleus and electrons occupying diffuse regions. What appears as solid contact is therefore not the interaction of compact matter, but the result of underlying structures that are, for the most part, empty.
+
+This framework is intended to operate at a conceptual level compatible with existing physical descriptions, without modifying their predictive structure.
 
 ------
 
-### 6. Interaction through shared origin
+### 7. Interaction through shared origin
 
-It is assumed that quanta associated with different observable bodies may share a common origin or state within the non-observable domain.
+If quanta transition through a non-observable domain, it is possible that quanta associated with different observable bodies share a common condition within that domain.
 
 This shared condition may influence the probability of their re-emergence in proximity, providing a possible conceptual basis for interactions such as:
 
@@ -102,13 +122,17 @@ This shared condition may influence the probability of their re-emergence in pro
 
 This point is not presented as a complete explanation, but as a directional hypothesis.
 
+------
+
 > These assumptions are not derived from experimental verification, but are proposed as a conceptual framework intended to be evaluated for coherence and explanatory potential.
+
+---
+
+
 
 ## Conceptual Implications
 
 Based on the assumptions outlined above, it is possible to explore how certain physical phenomena may be interpreted within this framework. The following considerations are not presented as definitive explanations, but as conceptual directions derived from the proposed model.
-
-------
 
 ### 1. Gravity as probabilistic convergence
 
@@ -160,7 +184,11 @@ Instability or decay may then be interpreted as a gradual change in these underl
 
 > These interpretations are qualitative and conceptual. Their purpose is to suggest possible directions of understanding rather than to provide mathematically defined models.
 
-## Assonance with recent developments in quantum physics (Quantum entanglement)
+---
+
+
+
+## Conceptual Parallels with Modern Quantum Physics (Quantum entanglement)
 
 Recent developments in quantum physics, particularly those recognized by the **Nobel Prize in Physics 2022**, have highlighted the existence of correlations between particles that are not contiguous in space. 
 
@@ -173,6 +201,8 @@ The idea that quanta may share a condition or connection outside of direct spati
 However, in current scientific models, such correlations do not imply the existence of a shared non-observable domain in the sense proposed here, nor do they provide a mechanism for physical interaction or information transfer beyond well-defined constraints. 
 
 The parallel is therefore suggestive rather than demonstrative, and should be understood as a possible point of conceptual resonance rather than as supporting evidence.
+
+---
 
 ## Limits, Open Questions, and Possible Tests
 
@@ -265,7 +295,7 @@ These questions define the boundaries of the current framework and indicate area
 
 > This work is intended as an initial exploration. Its purpose is not to establish a complete theory, but to propose a structured line of thought that may be further developed, refined, or challenged.
 
-
+---
 
 ## Conclusion
 
@@ -277,13 +307,15 @@ The framework does not aim to replace established scientific models, which remai
 
 At its current stage, the proposal is qualitative and incomplete. Its value lies not in providing definitive answers, but in offering a coherent structure of ideas that may be further developed, formalized, or challenged.
 
-Ultimately, this work is based on a simple premise:
+**Ultimately, this work is based on a simple premise:**
 
-> What appears stable and continuous may in fact be the visible trace of a deeper, discontinuous process.
+What appears stable and continuous may in fact be the visible trace of a deeper, discontinuous process.
 
 Whether this perspective can lead to measurable insights or remains a purely conceptual interpretation is an open question. However, the attempt to explore such possibilities reflects a broader principle:
 
-> That the limits of current understanding are not boundaries of reality, but of the models we use to describe it.
+That the limits of current understanding are not boundaries of reality, but of the models we use to describe it.
+
+The value of such an approach lies not in its certainty, but in its capacity to suggest new ways of questioning what is otherwise taken as given.
 
 
 
