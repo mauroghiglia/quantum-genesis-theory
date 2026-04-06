@@ -10,6 +10,10 @@ Modern science has achieved extraordinary precision in describing and predicting
 
 The purpose of this work is not to challenge or replace established scientific theories, but to explore whether a complementary conceptual framework can be formulated to address questions that remain only partially understood.
 
+The initial intuition behind this framework emerged while watching a well-known Italian scientist on television. He explained that if we push a bicycle and then let it go, we can predict that it will continue moving for a few seconds, and we can even calculate when it will eventually fall. However, beyond the mathematical description, a more fundamental question remains open: why does it continue to move at all? What is it that sustains this motion once the initial push is no longer applied? Is there an intrinsic “force” within the system, or are we simply describing the behavior without fully understanding its underlying mechanism? This reflection represents one of the starting points of the present work.
+
+These questions do not end with such a seemingly simple event. Why does the bicycle continue its motion instead of immediately falling, once it is no longer supported? And conversely, why does it eventually fall, instead of remaining upright where it was left? As can be easily observed, there are many phenomena—even in everyday life—for which we know the governing laws, such as gravity or gyroscopic effects, yet we do not fully understand their intrinsic nature. We are able to describe how these phenomena behave and predict their outcomes with precision, but the deeper mechanisms that give rise to them remain, at least in part, conceptually unresolved.
+
 In particular, this reflection focuses on phenomena such as:
 
 - gravity
@@ -18,6 +22,8 @@ In particular, this reflection focuses on phenomena such as:
 - centrifugal effects
 
 These are well described mathematically, yet their deeper nature and underlying mechanisms are still subject to interpretation.
+
+There is also a more “philosophical” question that has always remained in the background of these reflections: **why do the Earth and the Moon attract each other?** Is there some kind of invisible “elastic” connecting them, or is this simply a way of describing an effect without accessing its true nature? And if such an attraction exists, could one in principle imagine a barrier capable of interrupting it, allowing the Moon to drift freely through space? These questions are not meant to challenge established physical laws, but to highlight the gap between our ability to describe interactions and our understanding of what fundamentally gives rise to them.
 
 The central intuition guiding this work is that what we perceive as stable physical reality may in fact be the result of continuous transitions of quanta between observable and non-observable states. Within this perspective, matter is not a fixed entity, but an intermediate manifestation of a more fundamental process.
 
@@ -67,7 +73,7 @@ This continuous process defines what is perceived as existence.
 
 Space and time are not assumed to exist independently as fixed frameworks.
 
-Instead, they are considered as **emergent properties** resulting from the distribution and transitions of quanta.
+Instead, they are considered as **emergent properties** resulting from the distribution and transitions of quanta. Space and time, in this view, have no independent existence: they are defined by the presence and transitions of quanta. The apparent separation between entities exists only while quanta are manifested. In the absence of quanta, there is no space to separate and no time to order events.
 
 The apparent continuity of space and the flow of time are therefore consequences of underlying discrete processes.
 
@@ -80,6 +86,8 @@ The stability of matter (e.g., solid objects, persistent forms) is interpreted a
 At any given moment, the probability of quanta re-emerging in approximately the same configuration is high enough to produce the perception of stable structures.
 
 This does not imply true permanence, but rather a dynamic equilibrium.
+
+To illustrate this concept, consider a blacksmith striking a piece of red-hot iron on an anvil—an image that evokes maximum solidity. At the atomic level, however, both the hammer and the iron are composed of structures that are overwhelmingly empty: an atom is more than 99.999999999999% empty space, with mass concentrated in a tiny nucleus and electrons occupying diffuse regions. What appears as solid contact is therefore not the interaction of compact matter, but the result of underlying structures that are, for the most part, empty.
 
 ------
 
