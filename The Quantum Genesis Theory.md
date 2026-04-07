@@ -29,7 +29,15 @@ The central intuition guiding this work is that what we perceive as stable physi
 
 This approach does not claim completeness or finality. Rather, it aims to propose a coherent line of thought that may open alternative ways of interpreting physical phenomena, while remaining compatible with empirical observations.
 
+### Even the Atom is not what it used to be
 
+Even the atom — the fundamental unit we are taught to consider as the building block of matter — is no longer understood in the way most of us imagine it.
+
+The familiar image of a compact nucleus with electrons orbiting around it, inherited from early models such as the Bohr model, is not a physical description of reality but a simplified representation.
+
+In modern physics, particularly within quantum mechanics, electrons are not particles following defined trajectories. They are described by probability distributions, meaning that even at this fundamental level, matter does not possess a stable and clearly defined structure in the classical sense.
+
+If what we perceive as solid matter is already, at the atomic level, mostly empty space governed by probabilistic behavior, then the apparent solidity of the world may itself be a form of representation rather than an intrinsic property of reality.
 
 ## Core Assumptions
 

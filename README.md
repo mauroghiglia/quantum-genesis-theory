@@ -18,10 +18,23 @@ This work does not aim to replace established scientific models. Its purpose is 
 ## Current contents
 
 - **The Quantum Genesis Theory.md** — first draft of the main document
+- **Is There a Ghost in My Bicycle?** — Rethinking motion, persistence, and the hidden layer of reality
+
+
 
 ## Notes
 
 This repository represents an initial formulation. The ideas presented here are qualitative and conceptual, and are open to further refinement, critique, and development.
+
+
+
+## Contact
+
+If you’d like to discuss these ideas, collaborations, or feedback:
+
+- Email: mauroghiglia@gmail.com 
+
+
 
 ## Credits
 
