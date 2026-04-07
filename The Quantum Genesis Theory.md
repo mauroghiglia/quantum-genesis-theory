@@ -4,30 +4,30 @@ by Mauro Ghiglia
 
 ### Introduction
 
-This work does not originate from formal scientific training, but from a sustained attempt to reflect on the limits and assumptions of current scientific models.
+- This work does not originate from formal scientific training, but from a sustained attempt to reflect on the limits and assumptions of current scientific models.
 
-Modern science has achieved extraordinary precision in describing and predicting physical phenomena. However, by its empirical nature, it necessarily and deliberately limits itself to what can be observed, measured, and tested. This leaves open the possibility that certain aspects of reality — particularly those not directly accessible to observation — remain outside its scope.
+  Modern science has achieved extraordinary precision in describing and predicting physical phenomena. However, by its empirical nature, it necessarily and deliberately limits itself to what can be observed, measured, and tested. This leaves open the possibility that certain aspects of reality — particularly those not directly accessible to observation — remain outside its scope.
 
-The purpose of this work is not to challenge or replace established scientific theories, but to explore whether a complementary conceptual framework can be formulated to address questions that remain only partially understood.
+  The purpose of this work is not to challenge or replace established scientific theories, but to explore whether a complementary conceptual framework can be formulated to address questions that remain only partially understood.
 
-The initial intuition behind this framework emerged while watching a well-known Italian scientist on television. He explained that if we push a bicycle and then let it go, we can predict that it will continue moving for a few seconds, and we can even calculate when it will eventually fall. However, beyond the mathematical description, a more fundamental question remains open: why does it continue to move at all? What is it that sustains this motion once the initial push is no longer applied? Is there an intrinsic “force” within the system, or are we simply describing the behavior without fully understanding its underlying mechanism? This observation constitutes one of the starting points of the present framework.
+  The initial intuition behind this framework emerged while watching a well-known Italian scientist on television. He explained that if we push a bicycle and then let it go, we can predict that it will continue moving for a few seconds, and we can even calculate when it will eventually fall. However, beyond the mathematical description, a more fundamental question remains open: why does it continue to move at all? What is it that sustains this motion once the initial push is no longer applied? Is there an intrinsic “force” within the system, or are we simply describing the behavior without fully understanding its underlying mechanism?
 
-These questions do not end with such a seemingly simple event. Why does the bicycle continue its motion instead of immediately falling, once it is no longer supported? And conversely, why does it eventually fall, instead of remaining upright where it was left? We can see it in our every day life, there are many phenomena for which we know the governing laws, such as gravity or gyroscopic effects, yet we do not fully understand their intrinsic nature. We are able to describe how these phenomena behave and predict their outcomes with precision, but the deeper mechanisms that give rise to them remain, at least in part, conceptually unresolved.
+  This observation highlights a broader issue: even in everyday phenomena, we often possess precise laws that describe behavior, yet the underlying nature of these processes remains conceptually unclear. This reflection constitutes one of the starting points of the present framework.
 
-In particular, this reflection focuses on phenomena such as:
+  In particular, this work focuses on phenomena such as:
 
-- gravity
-- mass
-- inertia
-- centrifugal phenomena
+  - gravity
+  - mass
+  - inertia
+  - centrifugal phenomena
 
-These are well described mathematically, yet their deeper nature and underlying mechanisms are still subject to interpretation.
+  These are well described mathematically, yet their deeper nature and underlying mechanisms are still subject to interpretation.
 
-There is also a more “philosophical” question that has always remained in the background of these reflections: **why do the Earth and the Moon attract each other?** Is there some kind of invisible “elastic” connecting them, or is this simply a way of describing an effect without accessing its true nature? And if such an attraction exists, could one in principle imagine a barrier capable of interrupting it, allowing the Moon to drift freely through space? These questions are not meant to challenge established physical laws, but to highlight the gap between our ability to describe interactions and our understanding of what fundamentally gives rise to them.
+  There is also a more “philosophical” question that has always remained in the background of these reflections: **why do the Earth and the Moon attract each other?** Is there some kind of invisible “elastic” connecting them, or is this simply a way of describing an effect without accessing its true nature? And if such an attraction exists, could one in principle imagine a barrier capable of interrupting it, allowing the Moon to drift freely through space? These questions are not meant to challenge established physical laws, but to highlight the gap between our ability to describe interactions and our understanding of what fundamentally gives rise to them.
 
-The central intuition guiding this work is that what we perceive as stable physical reality may in fact be the result of continuous transitions of quanta between observable and non-observable states. Within this perspective, matter is not a fixed entity, but an intermediate manifestation of a more fundamental process.
+  The central intuition guiding this work is that what we perceive as stable physical reality may in fact be the result of continuous transitions of quanta between observable and non-observable states. Within this perspective, matter is not a fixed entity, but an intermediate manifestation of a more fundamental process.
 
-This approach does not claim completeness or finality. Rather, it aims to propose a coherent line of thought that may open alternative ways of interpreting physical phenomena, while remaining compatible with empirical observations.
+  This approach does not claim completeness or finality. Rather, it aims to propose a coherent line of thought that may open alternative ways of interpreting physical phenomena, while remaining compatible with empirical observations.
 
 
 
@@ -127,6 +127,10 @@ This point is not presented as a complete explanation, but as a directional hypo
 > These assumptions are not derived from experimental verification, but are proposed as a conceptual framework intended to be evaluated for coherence and explanatory potential.
 
 ---
+
+![non-observable-domain](diagrams/non-observable-domain.png)
+
+*Figure 1 — Conceptual representation of quanta transitioning between observable and non-observable states. What we consider a "solid" reality is in reality represented by the emergence, at an enormously high frequency, of the quanta from the non-observable domain*
 
 
 
