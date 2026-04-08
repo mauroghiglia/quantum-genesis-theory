@@ -31,7 +31,21 @@ This approach does not claim completeness or finality. Rather, it aims to propos
 
 ### Between Physics and Metaphysics
 
-This work is also inspired by a reflection on what is still unknown about the most fundamental constituents of reality. Even within modern physics, the nature of quanta remains deeply elusive: we can describe their behavior with extraordinary precision, yet we cannot fully answer what they are or where they are in a classical sense — a limitation reflected in principles such as those introduced by Max Planck and Werner Heisenberg. At the same time, the work of Albert Einstein revealed a profound equivalence between matter and energy, suggesting that what we perceive as solid matter may be only one manifestation of a deeper and more fundamental reality. Beyond strictly scientific influences, this line of thought has also been indirectly shaped by broader reflections on the nature of reality, including the studies of Gustavo Adolfo Rol, who hypothesized the presence of an underlying intelligence behind physical phenomena. While such perspectives lie outside the domain of empirical science, they contribute to the philosophical background of this work, which aims not to assert conclusions, but to explore possibilities at the boundary between what is known and what remains open.
+This work is also inspired by a reflection on what is still unknown about the most fundamental constituents of reality. Even within modern physics, the nature of quanta remains deeply elusive: we can describe their behavior with extraordinary precision, yet we cannot fully answer what they are or where they are in a classical sense — a limitation reflected in principles such as those introduced by [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) and [Werner Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg). 
+
+At the same time, the work of [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) revealed a profound relationship between matter and energy. However, beyond the well-known formulation, one aspect has always appeared particularly significant: the presence of the constant C, the speed of light.
+
+It is commonly understood as a conversion factor or as a consequence of the maximum speed allowed in our physical framework. Yet, it may also be interpreted as something more fundamental.
+
+Light is the most direct and observable manifestation of what we call energy. If energy itself remains conceptually undefined, its manifestation through light may represent the closest accessible expression of an underlying process.
+
+From this perspective, the speed of light may not simply be a limit, but could reflect the intrinsic rate at which this underlying process occurs — potentially related to the frequency with which quanta manifest within observable reality.
+
+This interpretation is speculative, but it highlights the possibility that what appears as a constant of nature may instead be a trace of a deeper mechanism.
+
+Beyond scientific reasoning, this perspective has also been influenced by broader reflections on the nature of reality, including those of [Gustavo Adolfo Rol](https://en.wikipedia.org/wiki/Gustavo_Rol). 
+
+These influences are not presented as evidence, but as part of the conceptual horizon within which this work was developed.
 
 ### Even the Atom is not what it used to be
 
