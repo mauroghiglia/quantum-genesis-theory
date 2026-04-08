@@ -2,6 +2,16 @@
 
 by Mauro Ghiglia
 
+### What if reality is not made of stable matter, but of something that continuously appears - part of something beyond our universe?
+
+If you push a bicycle and let it go, it keeps moving. Physics can describe this with precision. It can even predict when it will fall.
+But it does not answer a simpler question: why does it continue at all?
+
+What sustains motion once the initial push is no longer applied? We call it "energy" - but what is that, exactly? Is something physically moving inside the bicycle, or are we simply naming a behavior without understanding its nature?
+
+This question reflects a broader issue. Modern science is extraordinarily effective at describing how phenomena behave, yet it often remains silent about their deeper nature.
+This work does not aim to challenge established scientific theories. Instead, it explores whether a complementary conceptual framework can be formulated to address what current models do not attempt to explain.
+
 ### Introduction
 
 This work does not originate from formal scientific training, but from a sustained attempt to reflect on the limits and assumptions of current scientific models.
@@ -28,6 +38,23 @@ There is also a more “philosophical” question that has always remained in th
 The central intuition guiding this work is that what we perceive as stable physical reality may in fact be the result of continuous transitions of quanta between observable and non-observable states. Within this perspective, matter is not a fixed entity, but an intermediate manifestation of a more fundamental process.
 
 This approach does not claim completeness or finality. Rather, it aims to propose a coherent line of thought that may open alternative ways of interpreting physical phenomena, while remaining compatible with empirical observations.
+
+### Between Physics and Metaphysics
+
+This work is also inspired by a simple observation: even in modern physics, we still do not fully know what quanta are, nor where they are in a classical sense - a limitation already reflected in the work of Max Planck and Werner Heisenberg.
+
+At the same time, the work of Albert Einstein revealed a profound relationship between matter and energy. However, beyond the well-known formulation, one aspect has always appeared particularly significant: the presence of the constant c, the speed of light.
+
+It is commonly understood as a conversion factor or as a consequence of the maximum speed allowed in our physical framework. Yet, it may also be interpreted as something more fundamental.
+
+Light is the most direct and observable manifestation of what we call energy. If energy itself remains conceptually undefined, its manifestation through light may represent the closest accessible expression of an underlying process.
+
+From this perspective, the speed of light may not simply be a limit, but could reflect the intrinsic rate at which this underlying process occurs — potentially related to the frequency with which quanta manifest within observable reality.
+
+This interpretation is speculative, but it highlights the possibility that what appears as a constant of nature may instead be a trace of a deeper mechanism.
+
+Beyond scientific reasoning, this perspective has also been influenced by broader reflections on the nature of reality, including those of Gustavo Adolfo Rol. 
+These influences are not presented as evidence, but as part of the conceptual horizon within which this work was developed.
 
 ### Even the Atom is not what it used to be
 
@@ -331,14 +358,8 @@ The value of such an approach lies not in its certainty, but in its capacity to 
 
 
 
-### Credits
+## Credits
 
-The development and formulation of this work have been supported by the use of **ChatGPT**.
+The development of this work has been supported by the use of ChatGPT, primarily as a tool for structuring and refining the clarity of the exposition.
 
-Its assistance has been instrumental in:
-
-- structuring and organizing the underlying ideas
-- refining the clarity of concepts
-- translating intuitive reasoning into precise and unambiguous language
-
-The core concepts and direction of this framework originate from the author. The role of ChatGPT has been to facilitate their expression, helping transform informal reflections into a coherent and readable form.
+The underlying ideas, conceptual framework, and direction of this work originate entirely from the author.
