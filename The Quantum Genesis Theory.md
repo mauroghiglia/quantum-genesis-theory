@@ -29,6 +29,10 @@ The central intuition guiding this work is that what we perceive as stable physi
 
 This approach does not claim completeness or finality. Rather, it aims to propose a coherent line of thought that may open alternative ways of interpreting physical phenomena, while remaining compatible with empirical observations.
 
+### Between Physics and Metaphysics
+
+This work is also inspired by a reflection on what is still unknown about the most fundamental constituents of reality. Even within modern physics, the nature of quanta remains deeply elusive: we can describe their behavior with extraordinary precision, yet we cannot fully answer what they are or where they are in a classical sense — a limitation reflected in principles such as those introduced by Max Planck and Werner Heisenberg. At the same time, the work of Albert Einstein revealed a profound equivalence between matter and energy, suggesting that what we perceive as solid matter may be only one manifestation of a deeper and more fundamental reality. Beyond strictly scientific influences, this line of thought has also been indirectly shaped by broader reflections on the nature of reality, including the studies of Gustavo Adolfo Rol, who hypothesized the presence of an underlying intelligence behind physical phenomena. While such perspectives lie outside the domain of empirical science, they contribute to the philosophical background of this work, which aims not to assert conclusions, but to explore possibilities at the boundary between what is known and what remains open.
+
 ### Even the Atom is not what it used to be
 
 Even the atom — the fundamental unit we are taught to consider as the building block of matter — is no longer understood in the way most of us imagine it.
