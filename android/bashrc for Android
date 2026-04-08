@@ -1,0 +1,26 @@
+comms() {
+  printf "\n%-10s %s\n" "qgt"      "→ move to repo folder"
+  printf "%-10s %s\n" "qgt_git"  "→ pull + status"
+  printf "%-10s %s\n" "qgt_push" "→ add, commit, push"
+  printf "%-10s %s\n" ""         "   example: qgt_push \"message\""
+  echo ""
+}
+
+alias qgt='cd /storage/emulated/0/Documents/quantum-genesis-theory'
+
+qgt_git() {
+  cd /storage/emulated/0/Documents/quantum-genesis-theory || return
+  git pull
+  git status
+}
+
+qgt_push() {
+  cd /storage/emulated/0/Documents/quantum-genesis-theory || return
+  git add .
+  if git diff --cached --quiet; then
+    echo "Nothing to commit"
+  else
+    git commit -m "${1:-Update from tablet}"
+    git push
+  fi
+}
